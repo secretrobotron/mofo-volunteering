@@ -1,0 +1,14 @@
+{
+  "name": "mofo-volunteering",
+  "author": "@secretrobotron",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "makerstrap": "mozilla/makerstrap#~0.1.8"
+  },
+  "ignore": [
+    "node_modules/",
+    "Gruntfile.js",
+    "package.json"
+  ]
+}
